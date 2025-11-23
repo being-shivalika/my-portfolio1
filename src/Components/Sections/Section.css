@@ -1,0 +1,152 @@
+/*this filke contains projects and content section css*/
+/*Projects*/
+.projects-section {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  
+}
+
+.projects-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 10px;
+  background-color: black;
+  background-size: cover;
+  color: white;
+  margin-top: 10px;
+  border: 3.5px solid rgba(160, 145, 190, 0.507);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
+}
+.projects-overlay{
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.156);
+}
+
+.projects-content {
+  background: rgba(160, 145, 190, 0.507);
+  border: 2px solid white;
+  border-radius: 50px;
+  padding: 30px 30px;
+  position: relative;
+  z-index: 2;
+  max-width: 950px;
+  height: 600px;
+  box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
+}
+.section-heading{
+  font-family: monospace;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.projects-container p{
+  font-size: 1.1rem;
+  margin-bottom: 25px;
+  opacity: 0.9;
+}
+
+.project-container2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.project-box{
+  background: rgba(160, 145, 190, 0.507);
+  border: 2px solid white;
+  border-radius: 25px;
+  padding: 30px 30px;
+  margin: 15px 15px 15px 15px;
+  height: 200px;
+  width: 500px;
+  font-size: 2rem;
+  box-shadow: 5px 5px 15px rgba(246, 99, 162, 0.836);
+  font-family: monospace;
+  text-align: left;
+}
+
+
+.text{
+  height: 100%;
+  overflow-y: auto;
+  padding-right: 0px;
+}
+
+
+/*Contact*/
+.contacts-section {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  
+}
+
+.contacts-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 20px;
+  background-color: black;
+  background-size: cover;
+  color: white;
+  margin-top: 10px;
+  border: 3.5px solid rgba(160, 145, 190, 0.507);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
+}
+.contacts-overlay{
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.156);
+}
+
+.contacts-content {
+  background: rgba(160, 145, 190, 0.507);
+  border: 2px solid white;
+  border-radius: 50px;
+  padding: 30px 30px;
+  position: relative;
+  z-index: 2;
+  max-width: 950px;
+  height: 600px;
+  box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
+ 
+}
+.section-heading{
+  font-family: monospace;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.contacts-container p{
+  font-size: 1.1rem;
+  margin-bottom: 25px;
+  opacity: 0.9;
+}
+.text{
+  height: 100%;
+  overflow-y: auto;
+  padding-right: 0px;
+}
+
+.social{
+  background: rgba(160, 145, 190, 0.507);
+  border: 2px solid white;
+  border-radius: 25px;
+  padding: 30px 30px;
+  margin: 15px 15px 15px 15px;
+  height: 100px;
+  width: 350px;
+  font-size: 2rem;
+  box-shadow: 5px 5px 15px rgba(246, 99, 162, 0.836);
+  font-family: monospace;
+  text-align: left;
+}
