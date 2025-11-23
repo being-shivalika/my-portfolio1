@@ -11,6 +11,8 @@ function Contacts() {
                             <div className='social' id='linkedin'>Linkedin</div>
                             <div className='social' id='github'>GitHub</div>
                             <div className='social' id='twitter'>Twitter</div>
+                            <div className='social' id='email'>Email at-- mehrashivalika8@gmail.com</div>
+                            
                         </div>
                         <div className='form'>
                              <form>
