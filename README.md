@@ -1,7 +1,7 @@
 🌟 **Personal Portfolio Website**
 
 A modern, responsive portfolio built to showcase my work, skills, and growth as a frontend developer.
-This is my first React project, and I built it from scratch to understand how real components, props, and structure come together in an actual application — not just in tutorials.
+This is my first React project, and I built it from scratch to understand how real components and structure come together in an actual application — not just in tutorials.
 
 📖 **About the Project**
 
