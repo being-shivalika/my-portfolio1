@@ -33,10 +33,6 @@ This project taught me way more than just “how to use React”.
 
 Breaking the UI into small, reusable pieces instead of writing everything in one file.
 
-✔ Handling state and props in a practical setting
-
-Not just watching videos — actually using useState to control sections, sliders, buttons, and navigation.
-
 ✔ How to structure a real React project
 
 Setting up folders, managing assets, organizing CSS, and keeping code readable.
