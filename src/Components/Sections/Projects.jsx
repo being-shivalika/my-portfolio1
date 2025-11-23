@@ -8,19 +8,19 @@ function Projects() {
                 <div className="projects-content">
                     <div className='text'>
                         <div className="project-container2">
-                    <div className="project-box">
-                        <h2>Resume builder</h2>
-                    </div>
-                    <div className="project-box">
-                        <h2>Ecommerce</h2>
-                    </div>
-                    <div className="project-box">
-                        <h2>Website agency</h2>
-                    </div>
-                    <div className="project-box">
-                        <h2>SourSOS</h2>
-                    </div>
-                </div>
+                            <div className="project-box">
+                                <h2>Resume builder</h2>
+                            </div>
+                            <div className="project-box">
+                                <h2>Ecommerce</h2>
+                            </div>
+                            <div className="project-box">
+                                <h2>Website agency</h2>
+                            </div>
+                            <div className="project-box">
+                                <h2>SourSOS</h2>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

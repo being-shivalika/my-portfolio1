@@ -15,11 +15,10 @@ import Contacts from './Components/Sections/Contacts.jsx'
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
     <>
-       <Hero />
+      <Hero />
       <About />
       <Skills />
       <Projects />

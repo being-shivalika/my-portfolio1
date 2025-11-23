@@ -67,11 +67,7 @@ function Hero() {
         </div>
       </div>
 
-      <div
-        id={slide.id}
-        className="hero"
-        style={{ backgroundImage: `url(${slide.image})` }}
-      >
+      <div id={slide.id} className="hero" style={{ backgroundImage: `url(${slide.image})` }}>
         <div className="hero-overlay"></div>
 
         <div className="hero-content">
@@ -79,14 +75,11 @@ function Hero() {
           {slide.subtitle && <h2>{slide.subtitle}</h2>}
           <p>{slide.text}</p>
 
-          <button className="hero-btn" onClick={() => { setCurrent((current + 1) % slides.length); setTimeout(() => goToSection(slide.targetPrimary), 300); 
-          }
-          }>
-
+          <button className="hero-btn" onClick={() => { setCurrent((current + 1) % slides.length); setTimeout(() => goToSection(slide.targetPrimary), 300); }}>
             {slide.btn}
           </button>
           <button className="hero-btn2" onClick={() => { setCurrent((current + 1) % slides.length);   setTimeout(() => goToSection(slide.targetSecondary), 300);  }}>
-
+            
             {slide.btn2}
           </button>
         </div>
