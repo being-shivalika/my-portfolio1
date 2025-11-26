@@ -18,6 +18,7 @@
   position: absolute;
   inset: 0;
   background: rgba(0, 0, 0, 0.281);
+  
 }
 
 
@@ -45,6 +46,11 @@
 }
 
 /*Main-buttons*/
+.button-hero{
+  display: flex;
+  justify-content: center;
+  
+}
 .hero-btn, .hero-btn2{
   padding: 12px 20px;
   background: rgba(250, 109, 243, 0.341);
@@ -56,6 +62,7 @@
   transition: 0.3s;
   margin: 10px 10px;
   align-items: center;
+  width: 160px;
 }
 
 .hero-btn:hover{

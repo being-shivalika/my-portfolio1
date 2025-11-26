@@ -15,7 +15,7 @@ import Contacts from './Components/Sections/Contacts.jsx'
 
 
 function App() {
-  
+
   return (
     <>
       <Hero />

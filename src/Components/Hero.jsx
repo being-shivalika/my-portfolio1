@@ -74,7 +74,7 @@ function Hero() {
           <h1>{slide.title}</h1>
           {slide.subtitle && <h2>{slide.subtitle}</h2>}
           <p>{slide.text}</p>
-
+          <div className="buttons-hero">
           <button className="hero-btn" onClick={() => { setCurrent((current + 1) % slides.length); setTimeout(() => goToSection(slide.targetPrimary), 300); }}>
             {slide.btn}
           </button>
@@ -82,6 +82,7 @@ function Hero() {
             
             {slide.btn2}
           </button>
+        </div>
         </div>
       </div>
     </>
