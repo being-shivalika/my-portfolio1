@@ -108,10 +108,11 @@ Improve accessibility and SEO
 Expand the site as my skills grow
 
 **Preview** --
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123541" src="https://github.com/user-attachments/assets/3fb4fe28-0818-4449-8d64-603f2a2ac646" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123553" src="https://github.com/user-attachments/assets/76d0fca9-7aa5-4dc3-abf6-350a4e4971e0" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123604" src="https://github.com/user-attachments/assets/f5028838-6f17-4152-9ca1-ea99b5915afd" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123614" src="https://github.com/user-attachments/assets/2dc19666-0e9d-4331-b988-40e51f0320f7" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123624" src="https://github.com/user-attachments/assets/d4baff58-c416-48fa-98fa-19dc0e433af6" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123654" src="https://github.com/user-attachments/assets/0d22447e-4bb9-4f32-b81a-ad941ef816bd" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-23 123709" src="https://github.com/user-attachments/assets/414c04a5-feee-4b82-ab8d-cc3e8815b953" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115249" src="https://github.com/user-attachments/assets/c5cdeacf-4375-47b7-aa62-9a31276e8f43" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115255" src="https://github.com/user-attachments/assets/530eee75-65d1-410e-b9ce-fc7a105053c1" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115302" src="https://github.com/user-attachments/assets/38a169cd-35b0-49f2-8e74-e33419d8c7c8" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115310" src="https://github.com/user-attachments/assets/1136ef82-9e0b-4e0d-aeda-a3ec84087617" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115318" src="https://github.com/user-attachments/assets/48034bf0-da05-49de-95aa-dccb42dbbb47" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115325" sr<img width="1920" height="1032" alt="Screenshot 2025-11-27 115332" src="https://github.com/user-attachments/assets/8a1ec53e-5e7f-4872-84dd-d4195ad58a43" />
+c="https://github.com/user-attachments/assets/4d89cc18-a891-431e-8d2<img width="1920" height="1032" alt="Screenshot 2025-11-27 115337" src="https://github.com/user-attachments/assets/1a19bae8-c98d-471a-a62c-e0e20af68052" />
+0-316a29d36e5d" />
