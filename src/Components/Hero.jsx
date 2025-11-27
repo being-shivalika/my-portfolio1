@@ -11,7 +11,7 @@ const slides = [
     btn2: "More About Me",
     targetPrimary: "#skills",
     targetSecondary: "#About",
-    image: "/images/final1st.png",
+    image: "/images/first1st.jpg",
   },
   {
     id: "skills",
@@ -21,7 +21,7 @@ const slides = [
     btn2: "What i Use",
     targetPrimary: "#projects",
     targetSecondary: "#Skills",
-    image: "/images/final2nd.png",
+    image: "/images/second2nd.jpg",
   },
   {
     id: "projects",
@@ -31,7 +31,7 @@ const slides = [
     btn2: "Recent Projects",
     targetPrimary: "#hero",
     targetSecondary: "#Projects",
-    image: "/images/final3rd.png",
+    image: "/images/third3rd.jpg",
   },
   {
     id: "contact",
@@ -41,7 +41,7 @@ const slides = [
     btn2: "Reach Out",
     targetPrimary: "#skills",
     targetSecondary: "#Contact",
-    image: "/images/final4th.png",
+    image: "/images/main4th.jpg",
   },
 ];
 

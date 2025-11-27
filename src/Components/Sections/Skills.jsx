@@ -3,8 +3,8 @@ import './About.css'
 function Skills() {
     return (
         <div className="skills-section" id='Skills'>
-            <h1 className='section-heading'>My Skills</h1>
             <div className="skills-container">
+                <h1 className='section-heading'>My Skills</h1>
                 <div className="skills-container2">
                     <div className="skills-box">
                         <h2>HTML5</h2>
@@ -20,7 +20,7 @@ function Skills() {
                     </div>
                 </div>
             </div>
-            <div className="skills-overlay"></div>
+
             
         </div>
 

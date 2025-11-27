@@ -6,41 +6,38 @@
   height: 100vh;
   overflow: hidden;
   margin-bottom: 10px;
+  
 }
 
 .text{
   padding: 10px 10px 10px 10px ;
 }
 .projects-container {
-  width: 100vw;
-  height: 99vh;
+  width: 95vw;
+  height: 95vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px 0px;
-  background-color: black;
-  background-size: cover;
   color: white;
   margin-top: 10px;
-  border: 3.5px solid rgba(160, 145, 190, 0.507);
+  margin-left: 25px;
   border-radius: 50px;
-  box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
-}
-.projects-overlay{
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.156);
+  background-image: url(/images/main2nd.jpg);
+  background-size: cover;
+  border: 3.5px solid rgba(255, 255, 255, 0.4);
+
 }
 
+
 .projects-content {
-  background: rgba(160, 145, 190, 0.507);
+  background: rgba(215, 107, 18, 0.486);
   border: 2px solid white;
   border-radius: 50px;
   padding: 10px 10px 10px 10px;
   position: relative;
   z-index: 2;
   max-width: 950px;
-  height: 550px;
+  height: 500px;
   box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
 }
 .section-heading{
@@ -62,7 +59,7 @@
 }
 
 .project-box{
-  background: rgba(160, 145, 190, 0.507);
+  background: rgba(182, 139, 89, 0.362);
   border: 2px solid white;
   border-radius: 25px;
   padding: 30px 30px;
@@ -70,7 +67,7 @@
   height: 180px;
   width: 500px;
   font-size: 2rem;
-  box-shadow: 5px 5px 15px rgba(246, 99, 162, 0.836);
+  box-shadow: 5px 5px 15px rgba(111, 58, 5, 0.836);
   font-family: monospace;
   text-align: left;
 }
@@ -87,34 +84,29 @@
 .contacts-section {
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: auto;
   overflow: hidden;
-  
+
 }
 
 .contacts-container {
-  width: 100vw;
-  height: 90vh;
+  width: 95vw;
+  height: 95vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px 20px;
-  background-color: black;
-  background-size: cover;
   color: white;
-  margin-top: 50px;
-  border: 3.5px solid rgba(160, 145, 190, 0.507);
+  margin-left: 25px;
+  border: 3.5px solid rgba(255, 255, 255, 0.4);
   border-radius: 50px;
   box-shadow: 5px 5px 15px rgba(255, 192, 203, 0.473);
-}
-.contacts-overlay{
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.156);
+  background-image: url(/images/main4th.jpg);
+  background-size: cover
 }
 
+
 .contacts-content {
-  background: rgba(160, 145, 190, 0.507);
   border: 2px solid white;
   border-radius: 50px;
   padding: 30px 30px;
@@ -142,15 +134,15 @@
 }
 
 .social{
-  background: rgba(160, 145, 190, 0.507);
+  background:#dfb6b2b7;
   border: 2px solid white;
-  border-radius: 25px;
+  border-radius: 15px;
   padding: 15px 15px;
   margin: 15px 15px 15px 15px;
   height: 50px;
   width: 350px;
   font-size: 1rem;
-  box-shadow: 5px 5px 15px rgba(246, 99, 162, 0.836);
+  box-shadow: 2px 2px 5px #FBE4D8;
   font-family: monospace;
   text-align: left;
 }

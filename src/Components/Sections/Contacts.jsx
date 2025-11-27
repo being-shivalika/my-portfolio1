@@ -8,10 +8,10 @@ function Contacts() {
                 <div className="contacts-content">
                     <div className='text'>
                         <div className='socials'>
-                            <div className='social' id='linkedin'>Linkedin</div>
-                            <div className='social' id='github'>GitHub</div>
-                            <div className='social' id='twitter'>Twitter</div>
-                            <div className='social' id='email'>Email at- mehrashivalika8@gmail.com</div>                   
+                            <div className='social' id='linkedin'>Linked.<i class="fa-brands fa-linkedin-in"></i> - @Shivalika Mehra</div>
+                            <div className='social' id='github'>GitHub <i class="fa-brands fa-github"></i> - @being-shivalika </div>
+                            <div className='social' id='twitter'>Twitter<i class="fa-brands fa-x-twitter"></i> - @shivalika271</div>
+                            <div className='social' id='email'><i class="fa-regular fa-message"></i>Email - mehrashivalika8@gmail.com</div>                   
                         </div>
                         <div className='form'>
                              <form>
@@ -21,7 +21,6 @@ function Contacts() {
                     </div>
                 </div>
             </div>
-            <div className="contacts-overlay"></div>
 
         </div>
 
