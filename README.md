@@ -113,6 +113,6 @@ Expand the site as my skills grow
 <img width="1920" height="1032" alt="Screenshot 2025-11-27 115302" src="https://github.com/user-attachments/assets/38a169cd-35b0-49f2-8e74-e33419d8c7c8" />
 <img width="1920" height="1032" alt="Screenshot 2025-11-27 115310" src="https://github.com/user-attachments/assets/1136ef82-9e0b-4e0d-aeda-a3ec84087617" />
 <img width="1920" height="1032" alt="Screenshot 2025-11-27 115318" src="https://github.com/user-attachments/assets/48034bf0-da05-49de-95aa-dccb42dbbb47" />
-<img width="1920" height="1032" alt="Screenshot 2025-11-27 115325" sr<img width="1920" height="1032" alt="Screenshot 2025-11-27 115332" src="https://github.com/user-attachments/assets/8a1ec53e-5e7f-4872-84dd-d4195ad58a43" />
-c="https://github.com/user-attachments/assets/4d89cc18-a891-431e-8d2<img width="1920" height="1032" alt="Screenshot 2025-11-27 115337" src="https://github.com/user-attachments/assets/1a19bae8-c98d-471a-a62c-e0e20af68052" />
-0-316a29d36e5d" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115332" src="https://github.com/user-attachments/assets/8a1ec53e-5e7f-4872-84dd-d4195ad58a43" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115325" src="https://github.com/user-attachments/assets/4d89cc18-a891-431e-8d20-316a29d36e5d" />
+<img width="1920" height="1032" alt="Screenshot 2025-11-27 115337" src="https://github.com/user-attachments/assets/1a19bae8-c98d-471a-a62c-e0e20af68052" />
