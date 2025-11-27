@@ -11,7 +11,7 @@ const slides = [
     btn2: "More About Me",
     targetPrimary: "#skills",
     targetSecondary: "#About",
-    image: "/images/first1st.jpg",
+    image: "/images/bghero.jpg",
   },
   {
     id: "skills",
@@ -21,7 +21,7 @@ const slides = [
     btn2: "What i Use",
     targetPrimary: "#projects",
     targetSecondary: "#Skills",
-    image: "/images/second2nd.jpg",
+    image: "/images/bg2.jpg",
   },
   {
     id: "projects",
@@ -31,7 +31,7 @@ const slides = [
     btn2: "Recent Projects",
     targetPrimary: "#hero",
     targetSecondary: "#Projects",
-    image: "/images/third3rd.jpg",
+    image: "/images/deadbg.jpg",
   },
   {
     id: "contact",
@@ -41,7 +41,7 @@ const slides = [
     btn2: "Reach Out",
     targetPrimary: "#skills",
     targetSecondary: "#Contact",
-    image: "/images/main4th.jpg",
+    image: "/images/contactbg.jpg",
   },
 ];
 
@@ -61,6 +61,7 @@ function Hero() {
       <div className="nav">
         <div className="logo">Shivalika Mehra</div>
         <div className="nav-links">
+          <div className="nav-items" onClick={() => goToSection("#hero")}>Home</div>
           <div className="nav-items" onClick={() => goToSection("#About")}>About</div>
           <div className="nav-items" onClick={() => goToSection("#Projects")}>Projects</div>
           <div className="nav-items" onClick={() => goToSection("#Contact")}>Contact</div>
@@ -70,7 +71,7 @@ function Hero() {
       <div id={slide.id} className="hero" style={{ backgroundImage: `url(${slide.image})` }}>
         <div className="hero-overlay"></div>
 
-        <div className="hero-content">
+        <div className="hero-content" id="hero">
           <h1>{slide.title}</h1>
           {slide.subtitle && <h2>{slide.subtitle}</h2>}
           <p>{slide.text}</p>

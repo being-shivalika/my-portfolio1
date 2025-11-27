@@ -8,33 +8,34 @@ function Projects() {
                 <div className="projects-content">
                     <div className='text'>
                         <div className="project-container2">
-                            <div className="project-box">
+                            <div className="project-box" id='p1'>
                                 <h2>Resume builder</h2>
                             </div>
-                            <div className="project-box">
-                                <h2>Ecommerce</h2>
+                            <div className="project-box" id='p2'>
+                                <h2>Ecommerce store</h2>
                             </div>
-                            <div className="project-box">
+                            <div className="project-box" id='p3'>
                                 <h2>Website agency</h2>
                             </div>
-                            <div className="project-box">
+                            <div className="project-box" id='p4'>
                                 <h2>SourSOS</h2>
                             </div>
                         </div>
-                                                <div className="project-container2">
-                            <div className="project-box">
-                                <h2>Resume builder</h2>
+                        <div className="project-container2">
+                            <div className="project-box" id='p5'>
+                                <h2>Portfolio</h2>
                             </div>
-                            <div className="project-box">
-                                <h2>Ecommerce</h2>
+                            <div className="project-box" id='p6'>
+                                <h2>Cafe website</h2>
                             </div>
-                            <div className="project-box">
-                                <h2>Website agency</h2>
+                            <div className="project-box" id='p7'>
+                                <h2>landing page</h2>
                             </div>
-                            <div className="project-box">
-                                <h2>SourSOS</h2>
+                            <div className="project-box" id='p8'>
+                                <h2>tutorial</h2>
                             </div>
                         </div>
+                                               
                     </div>
                 </div>
             </div>
